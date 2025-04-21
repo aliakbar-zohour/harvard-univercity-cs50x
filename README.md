@@ -1,6 +1,5 @@
 # CS50x Python Solutions 🎓
-![Harvard_University_coat_of_arms svg](https://github.com/user-attachments/assets/c4738b80-659c-48c6-a8e8-74bde3ac74c6)
-
+<img width='40' src='https://github.com/user-attachments/assets/c4738b80-659c-48c6-a8e8-74bde3ac74c6'/>
 
 *My complete Python implementations for Harvard's CS50x problem sets*
 
@@ -8,8 +7,6 @@
 - [About](#-about)
 - [Python Problem Sets](#-python-problem-sets)
 - [Certificate](#-certificate)
-- [Usage](#-usage)
-- [Acknowledgments](#-acknowledgments)
 
 ## 🏫 About
 This repository contains my **step-by-step Python solutions** for Harvard University's [CS50x](https://cs50.harvard.edu/x/2024/) - Introduction to Computer Science. Focused on:
