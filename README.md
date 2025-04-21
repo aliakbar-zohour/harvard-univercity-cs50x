@@ -1,5 +1,5 @@
 # CS50x Python Solutions 🎓
-<img width='40' src='https://github.com/user-attachments/assets/c4738b80-659c-48c6-a8e8-74bde3ac74c6'/>
+<img width='140' src='https://github.com/user-attachments/assets/c4738b80-659c-48c6-a8e8-74bde3ac74c6'/>
 
 *My complete Python implementations for Harvard's CS50x problem sets*
 
