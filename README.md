@@ -28,4 +28,4 @@ This repository contains my **step-by-step Python solutions** for Harvard Univer
 
 ## 🏆 Certificate
 Successfully completed CS50x!  
-<a href='https://img.shields.io/badge/View_Certificate-0066CC?style=for-the-badge](https://certificates.cs50.io/c02f796f-d61d-4adf-a796-00a8fc79bc16.pdf?size=letter'>See Here</a>
+<a href='[https://img.shields.io/badge/View_Certificate-0066CC?style=for-the-badge](https://certificates.cs50.io/c02f796f-d61d-4adf-a796-00a8fc79bc16.pdf?size=letter](https://certificates.cs50.io/c02f796f-d61d-4adf-a796-00a8fc79bc16.pdf?size=letter)' target='__blank'>See Here</a>
