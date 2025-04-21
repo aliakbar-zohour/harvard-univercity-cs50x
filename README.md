@@ -6,7 +6,6 @@
 ## 📋 Table of Contents
 - [About](#-about)
 - [Python Problem Sets](#-python-problem-sets)
-- [Certificate](#-certificate)
 
 ## 🏫 About
 This repository contains my **step-by-step Python solutions** for Harvard University's [CS50x](https://cs50.harvard.edu/x/2024/) - Introduction to Computer Science. Focused on:
@@ -26,6 +25,3 @@ This repository contains my **step-by-step Python solutions** for Harvard Univer
 | 8 | [Finance](week8/finance/) | Flask, APIs, Session Management |
 | 9 | [Final Project](project/) | Full-stack Implementation |
 
-## 🏆 Certificate
-Successfully completed CS50x!  
-<a href='https://img.shields.io/badge/View_Certificate-0066CC?style=for-the-badge](https://certificates.cs50.io/c02f796f-d61d-4adf-a796-00a8fc79bc16.pdf?size=letter' target='__blank'>See Here</a>
